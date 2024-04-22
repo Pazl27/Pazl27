@@ -22,6 +22,10 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠙⠛⠛⠋⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠺⢿⣶⣝⡿⣿⣿⣿⣿⣿⣿⡿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pazl27&show_icons=true&theme=gruvbox)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pazl27&layout=compact&theme=gruvbox)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pazl27&show_icons=true&theme=gruvbox" alt="Anurag's GitHub stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazl27&layout=compact&theme=gruvbox" alt="Top Langs">
+</p>
+
